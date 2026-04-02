@@ -1,5 +1,5 @@
 # Smart Campus Surveillance System
-This project was built as part of my Computer Vision course. I wanted to explore how real-time surveillance systems detect people and monitor activity in environments like college campuses.
+This project was built as part of my Computer Vision course on VITyarthi. I wanted to explore how real-time surveillance systems detect people and monitor activity in environments like college campuses.
 
 
 # Features
